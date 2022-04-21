@@ -1,0 +1,3 @@
+
+In this lesson we'll take a look at how to write programs in JavaScript which accept user input. 
+The Code. Programs which get input from the user need to be .
