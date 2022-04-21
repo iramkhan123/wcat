@@ -3,7 +3,7 @@ It is used to display or make a copy content of one or more files in the termina
 Commands:
 
 1- node wcat.js filepath => displays content of the file in the terminal 
-2- node wcat.js filepath1 filepath2 filepath3... => displays content of all files in the terminal in (contactinated form) in the given order. ✅
+2- node wcat.js filepath1 filepath2 filepath3... => displays content of all files in the terminal in (concatenated form) in the given order. 
 3- node wcat.js -s filepath => convert big line breaks into a singular line break
 4- node wcat.js -n filepath => provide numbering to all the lines
 5- node wcat -b filepath => provide numbering to non-empty lines
